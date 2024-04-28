@@ -23,7 +23,12 @@ Currently, the program is essentially functional, where the model is able to det
 ## Programme Specifics
 
 The code is written with Python3. The AI model was built using Python in Google Colaboratory. 
-
+### Precision vs Recall
+![download (1)](https://github.com/Ravin06/PneumoniaDetectorCoursework/assets/77960307/d5880898-ce23-47e8-88f0-93cd793d9343)
+### ROC Curve
+![download](https://github.com/Ravin06/PneumoniaDetectorCoursework/assets/77960307/9c77e21f-14a3-4f52-9242-4b639af24771)
+### Model Accuracy
+![download (2)](https://github.com/Ravin06/PneumoniaDetectorCoursework/assets/77960307/0879853d-249b-4c66-8d9a-cc13b05908bc)
 
 
 ## Installation
