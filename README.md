@@ -55,3 +55,7 @@ pip3 install torch torchvision torchaudio
 
 To run the project, open FinalGui.py in IDLE and run it with everything in the same folder.
 Disclaimer: We cannot ensure the script working in Terminal/anything outside of IDLE just yet, it is a work in progress as of now.
+
+## Project Presentation
+
+![image](https://github.com/Ravin06/PneumoniaDetectorCoursework/assets/77960307/a113e3b2-acb5-40ca-9a64-92028b1546ac)https://sites.google.com/sst.edu.sg/cp-coursework-gallery/2023/pneumonia-detection?authuser=0
